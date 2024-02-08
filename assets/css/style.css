@@ -8,10 +8,20 @@
     background-color: #2C3E50;
 }
 
-#jumbotron {
+#jumbotron,
+#about {
     background-color: #1ABC9C;
 }
 
-#start {
+#start,
+#form {
     height: 300px;
+}
+
+#social {
+    background-color: #3A546D;
+}
+
+#privacy {
+    background-color: #2C3E50;
 }
