@@ -2,6 +2,29 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.fa-star {
+    font-size: 32px;
+}
+
+.star_center::before,
+.star_center::after {
+    content: '';
+    width: 25%;
+    height: 4px;
+    border-radius: 2px;
+    background-color: currentColor;
 }
 
 #navbar {
