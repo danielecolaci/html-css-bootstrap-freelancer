@@ -45,6 +45,11 @@ a {
     background-color: #3A546D;
 }
 
+#social_icon {
+    border: 1px solid currentColor;
+    padding: 10px 12px;
+}
+
 #privacy {
     background-color: #2C3E50;
 }
